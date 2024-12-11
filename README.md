@@ -63,7 +63,7 @@ git clone https://github.com/BoPDA1607/PdfToDocx
 
 ### 6. Chạy Server xử lý
 
-![MainServer](./asset/image/MainServer.png)
+![MainServer](./asset/image/mainServer.png)
 
 Chúc bạn thành công khi triển khai hệ thống!
 ---
