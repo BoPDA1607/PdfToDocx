@@ -61,9 +61,9 @@ git clone https://github.com/BoPDA1607/PdfToDocx
 
 **Hướng dẫn chi tiết**: [Video hướng dẫn](https://youtu.be/AJlqkaTask8)
 
-### 6. Chạy Server xử lý
+### 6. Hướng dẫn sử dụng
 
-![MainServer](./asset/image/mainServer.png)
+[!Video chi tiết](https://www.youtube.com/watch?v=bCE7QcscJpM)
 
 Chúc bạn thành công khi triển khai hệ thống!
 ---
