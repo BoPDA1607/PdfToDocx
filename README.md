@@ -63,7 +63,7 @@ git clone https://github.com/BoPDA1607/PdfToDocx
 
 ### 6. Hướng dẫn sử dụng
 
-[!Video chi tiết](https://www.youtube.com/watch?v=bCE7QcscJpM)
+**Hướng dẫn chi tiết**: [Video chi tiết](https://www.youtube.com/watch?v=bCE7QcscJpM)
 
 Chúc bạn thành công khi triển khai hệ thống!
 ---
